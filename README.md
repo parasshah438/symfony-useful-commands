@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>Symfony</title>
-</head>
+
 <body>
 <h1>Symfony useful Commands</h1>
 <h4>Symfony workflow steps</h4>
