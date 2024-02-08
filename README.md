@@ -5,7 +5,7 @@
 <h1>Symfony useful Commands</h1>
 <h4>Symfony workflow steps</h4>
 <pre>
-	Step 1 − The user sends a request to the application through the browser, say http://www.symfonyexample.com/index.
+Step 1 − The user sends a request to the application through the browser, say http://www.symfonyexample.com/index.
 
 	Step 2 − The browser will send a request to the web server, say Apache web server.
 
